@@ -2,7 +2,7 @@
 
 A responsive restaurant website frontend built with **React**. Browse the menu, add dishes to the cart, and view an order summary, all running in the browser with static data.
 
-🔗 **Live Demo:** [add your deployed link here]
+🔗 **Live Demo:** [https://res-app-react.netlify.app/menu]
 
 ---
 
