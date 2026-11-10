@@ -106,12 +106,4 @@ npm run build
 4. Push to the branch (`git push origin feature/new-feature`)
 5. Open a Pull Request
 
-## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
-
-## 👤 Author
-
-**[Your Name]**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin-url]
